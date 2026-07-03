@@ -265,7 +265,7 @@ This project is licensed under the Apache License 2.0.
 
 GitHub: https://github.com/saitejaravi2300
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: *([https://www.linkedin.com/in/saiteja-ravi-a72a6b291/])*
 
 ---
 
